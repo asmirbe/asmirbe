@@ -5,8 +5,8 @@
 A passionate frontend developer from France 🇫🇷
 
 ## 🔭 Current Focus
-- Working on [Mithril.so](https://mithril.so/)
-- Learning **Svelte**
+- Working on [Mithril.so](https://mithril.so/) and [Baryum.co](https://baryum.co/) 
+- Learning **Svelte** + Working from home.
 
 ## 💻 Tech Stack
 
