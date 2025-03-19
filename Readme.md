@@ -2,7 +2,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-hiasmir.com-blue?style=for-the-badge&logo=safari&logoColor=white)](https://www.hiasmir.com)
 [![Email](https://img.shields.io/badge/Email-hello@hiasmir.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@hiasmir.com)
 
-A passionate frontend developer from France 🇫🇷
+A passionate developer based in France 🇫🇷
 
 ## 🔭 Current Focus
 - Working on [Mithril.so](https://mithril.so/) and [Baryum.co](https://baryum.co/) 
